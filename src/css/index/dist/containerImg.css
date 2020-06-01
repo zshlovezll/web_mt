@@ -1,0 +1,24 @@
+.b-el {
+  display: block;
+  width: 1150px ;
+  height: 400px;
+  margin-left: 70px;
+  background-color: #fff;
+}
+.b-el .el-carousel__item {
+  background-color: #fff;
+  font-size: 14px;
+  line-height: 200px;
+  display: flex;
+  align-items: center;
+  margin-top: 13px;
+}
+.b-el .el-carousel__item img {
+  width: 165px;
+  height: 320px;
+  margin-left: 20px;
+  background-color: #fff;
+}
+.el-carousel {
+  margin-top: 13px;
+}

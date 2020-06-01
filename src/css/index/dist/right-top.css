@@ -1,0 +1,35 @@
+.top-inner {
+  width: 193px;
+  height: 211px;
+  border: 1px solid ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  border: 1px solid rgba(130, 134, 122, 0.918);
+}
+.top-inner .img {
+  width: 100px;
+  height: 100px;
+}
+.top-inner .img img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin: 13px 0px 0px 21px;
+}
+.top-inner .user-name {
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+}
+.top-inner .btn .login,
+.top-inner .btn .register {
+  width: 100px;
+  height: 30px;
+  border: 1px solid;
+  border-radius: 30px;
+  text-align: center;
+  line-height: 30px;
+}

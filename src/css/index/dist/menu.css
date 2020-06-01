@@ -1,0 +1,62 @@
+.menu {
+  margin-left: 72px;
+  background: #fff;
+  height: auto;
+  width: 224px;
+}
+.menu .nav1 {
+  box-shadow: 1px 0px 16px black;
+  box-shadow: 0, 0, 0, #f8f8f8;
+  border-top: none ;
+  height: auto;
+  overflow: hidden;
+  width: 224px;
+}
+.menu .nav1 dd:hover {
+  background-color: #fff7eb;
+}
+.menu .nav1 dd {
+  width: 207px;
+  margin-top: 5px;
+  margin-left: 9px;
+}
+.menu .nav1 dd .left {
+  float: right;
+  color: #bfbfbf;
+}
+.menu .nav1 dd i,
+.menu .nav1 dd p,
+.menu .nav1 dd div {
+  display: inline-block;
+}
+.menu .nav1 dd .icon {
+  color: #ff8200;
+}
+.menu .nav1 dd .content {
+  color: #647787;
+  margin-left: 3px;
+  font-size: 13px;
+}
+.menu .Block {
+  position: absolute;
+  left: 300px;
+  top: 0px;
+  width: 278px;
+  height: 404px;
+  border: 1px solid;
+  z-index: 10;
+  background: #fff;
+}
+.menu .Block .title {
+  width: 276px;
+  border: 1px solid;
+  font-size: 20px;
+  font-weight: bolder;
+  text-align: center;
+}
+.menu .Block .wrap {
+  float: left;
+}
+.menu .Block .wrap p {
+  margin: 3px 3px 3px 3px;
+}
